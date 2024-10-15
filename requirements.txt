@@ -1,0 +1,11 @@
+pandas
+requests
+nltk
+chardet
+tqdm
+pathlib
+bs4
+openpyxl
+matplotlib
+seaborn
+numpy
